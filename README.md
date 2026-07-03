@@ -24,10 +24,11 @@ Jupyter Notebook
 
 ## How to Run
 1. Clone the repo
-2. Install dependencies
-  pip install pandas matplotlib jupyter
+   - git clone https://github.com/georgina-01/chinook-sales-analysis.git
+3. Install dependencies
+  - pip install pandas matplotlib jupyter
 3. Open the notebook
-   'notebook/Chiook Music Store - Sales Analysis'
+   - notebook/Chiook Music Store - Sales Analysis
 
 ## Dataset
 [Chinook Database](https://github.com/lerocha/chinook-database) —
